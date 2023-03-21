@@ -18,8 +18,6 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white">
   
  
   
@@ -33,6 +31,5 @@ Techs that I've used at least once
   <h2>💪 STATS 💪</h2> 
   
  <!-- GitHub Stats -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin17&hide=contribs,prs&count_private=true&show_icons=true&theme=vue&title_color=1B4D73&icon_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumin17&layout=compact&title_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
 </div>

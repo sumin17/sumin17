@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=300&section=header&text=SuMin%20Yu&fontSize=90&fontColor=FFFFFF)
 
 <br/>
-<br/>
 <!-- badge -->
   
   <h2>🛠️ Tech Stack 🛠️</h2>

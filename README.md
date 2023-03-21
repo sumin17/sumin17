@@ -6,7 +6,7 @@
 <br/>
 <!-- badge -->
   
-  <h2>✍ Tech Stack </h2>
+  <h2>✍ Tech Stack ✍</h2>
 
 Techs that I've used at least once 
   
@@ -28,7 +28,7 @@ Techs that I've used at least once
 <br/>
 <br/>
  
-  <h2>👩‍💻 STATS </h2> 
+  <h2>👩‍💻 STATS 👩‍💻</h2> 
   
  <!-- GitHub Stats -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumin17&layout=compact&title_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
